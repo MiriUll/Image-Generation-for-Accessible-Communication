@@ -27,6 +27,7 @@ An E2R expert manually reviewed 560 of the generated images on four scales: cohe
 The annotations can be found in [evaluation/human_eval.csv](https://github.com/MiriUll/Image-Generation-for-Accessible-Communication/blob/main/evaluation/human_eval.csv).
 
 ### Human evaluation: Target group
+In addition, we asked the target group of E2R texts about their opinions of the images. Details can be found in our paper, but we added the tested images and the [target group votings](https://github.com/MiriUll/Image-Generation-for-Accessible-Communication/blob/main/evaluation/target_group_votings.xlsx) in this repository.
 
 ## Citation
 If you use any material in this repository, please cite our paper as:
