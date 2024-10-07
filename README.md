@@ -20,7 +20,7 @@ The generated images are in the ```images``` folder, sorted by the text-to-image
 The paper provides a detailed evaluation of the generated images. All evaluation material is provided in the ```evaluation``` folder.
 
 ### Automated evalation
-We evaluated the images with [FID](https://lightning.ai/docs/torchmetrics/stable/image/frechet_inception_distance.html), [CLIP](https://github.com/openai/CLIP.git) and [TIFA](https://github.com/Yushi-Hu/tifa) scores. The FID scores can be found in the respective (evaluate_FID_scores.ipynb)[] notebook. The TIFA and CLIP scores can be found in their respective ```*.csv``` files. All code and material to recreate the scores is provided in the evaluation folder.
+We evaluated the images with [FID](https://lightning.ai/docs/torchmetrics/stable/image/frechet_inception_distance.html), [CLIP](https://github.com/openai/CLIP.git) and [TIFA](https://github.com/Yushi-Hu/tifa) scores. The FID scores can be found in the respective [evaluate_FID_scores.ipynb](https://github.com/MiriUll/Image-Generation-for-Accessible-Communication/blob/main/evaluation/evaluate_FID_scores.ipynb) notebook. The TIFA and CLIP scores can be found in their respective ```*.csv``` files. All code and material to recreate the scores is provided in the evaluation folder.
 
 ### Human evaluation: Easy-to-read expert
 An E2R expert manually reviewed 560 of the generated images on four scales: coherence with the prompt, content correctned, bias toward people with disabilities, and suitability for the target group.  
