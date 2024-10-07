@@ -31,3 +31,14 @@ In addition, we asked the target group of E2R texts about their opinions of the 
 
 ## Citation
 If you use any material in this repository, please cite our paper as:
+```
+@misc{anschütz2024imagesspeakvolumesusercentric,
+      title={Images Speak Volumes: User-Centric Assessment of Image Generation for Accessible Communication}, 
+      author={Miriam Anschütz and Tringa Sylaj and Georg Groh},
+      year={2024},
+      eprint={2410.03430},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.03430}, 
+}
+```
