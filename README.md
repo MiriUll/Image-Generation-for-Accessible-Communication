@@ -30,15 +30,19 @@ The annotations can be found in [evaluation/human_eval.csv](https://github.com/M
 In addition, we asked the target group of E2R texts about their opinions of the images. Details can be found in our paper, but we added the tested images and the [target group votings](https://github.com/MiriUll/Image-Generation-for-Accessible-Communication/blob/main/evaluation/target_group_votings.xlsx) in this repository.
 
 ## Citation
-If you use any material in this repository, please cite our paper as:
+If you use any material in this repository, please cite [our paper](https://aclanthology.org/2024.tsar-1.4/) as:
 ```
-@misc{anschütz2024imagesspeakvolumesusercentric,
-      title={Images Speak Volumes: User-Centric Assessment of Image Generation for Accessible Communication}, 
-      author={Miriam Anschütz and Tringa Sylaj and Georg Groh},
-      year={2024},
-      eprint={2410.03430},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2410.03430}, 
+@inproceedings{anschutz-etal-2024-images,
+      title = "Images Speak Volumes: User-Centric Assessment of Image Generation for Accessible Communication",
+      author = {Ansch{\"u}tz, Miriam  and Sylaj, Tringa  and Groh, Georg},
+      editor = "Shardlow, Matthew  and Saggion, Horacio  and Alva-Manchego, Fernando  and Zampieri, Marcos  and North, Kai  and {\v{S}}tajner, Sanja  and todden, Regina",
+      booktitle = "Proceedings of the Third Workshop on Text Simplification, Accessibility and Readability (TSAR 2024)",
+      month = nov,
+      year = "2024",
+      address = "Miami, Florida, USA",
+      publisher = "Association for Computational Linguistics",
+      url = "https://aclanthology.org/2024.tsar-1.4/",
+      doi = "10.18653/v1/2024.tsar-1.4",
+      pages = "27--40"
 }
 ```
